@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ramvadlamudi22-dev&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Available%20For-AI%20Automation%20Projects-00FF88?style=for-the-badge&logo=rocket&logoColor=black" alt="Available for projects" />
-<img src="https://img.shields.io/badge/Focus-Agents%20%7C%20Bots%20%7C%20Workflows-00B8FF?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Agents%20%7C%20Skills%20%7C%20Workflows-00B8FF?style=for-the-badge" alt="Focus" />
 
 <br /><br />
 
@@ -19,6 +19,57 @@
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramvadlamudi22-dev)
 
 </div>
+
+---
+
+## 🔥 30-Day Trend-Aligned Project Stack
+
+> Based on current open-source momentum around **AI agents, AI skills, AI workflows, workflow automation, memory, web automation, and document processing**.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📈 AI SDR Outbound System</h3>
+      <p>Prototype scaffold for lead review, priority notes, CRM-style status tracking, and report artifacts.</p>
+      <p><b>Trend fit:</b> AI workflow + automation + business operations.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/ai-sdr-outbound-system">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🎙️ Voice AI Receptionist</h3>
+      <p>Receptionist workflow concept for intake, FAQs, routing, review, and owner summaries.</p>
+      <p><b>Trend fit:</b> AI agents + customer support + workflow routing.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/voice-ai-receptionist">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧾 Document Extraction Engine</h3>
+      <p>Business document processing direction for structured extraction, review, and reporting workflows.</p>
+      <p><b>Trend fit:</b> document processing + AI workflow.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/document-extraction-engine">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🏢 AI Automation Agency Stack</h3>
+      <p>Reusable delivery stack for turning manual business workflows into AI-assisted systems.</p>
+      <p><b>Trend fit:</b> AI skills + workflow automation + service delivery.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/ai-automation-agency-stack">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Live portfolio for AI automation services, project directions, stack, and contact flow.</p>
+      <p><b>Trend fit:</b> proof layer + client conversion.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/ramvadlamudi22-dev.github.io">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>👤 GitHub Profile System</h3>
+      <p>Personal GitHub profile README with stats, project map, services, and AI automation positioning.</p>
+      <p><b>Trend fit:</b> trust layer + build proof.</p>
+      <a href="https://github.com/ramvadlamudi22-dev/ramvadlamudi22-dev">View repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,7 +137,8 @@ Manual workflow → AI agent → automated system → measurable output
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=00FF88)
-![Automation](https://img.shields.io/badge/Automation-00FF88?style=for-the-badge&logo=zapier&logoColor=black)
+![AI Skills](https://img.shields.io/badge/AI%20Skills-6C63FF?style=for-the-badge&logo=sparkpost&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-00FF88?style=for-the-badge&logo=zapier&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge&logo=sparkpost&logoColor=white)
 
 ### Web, Apps & Deployment
@@ -109,17 +161,17 @@ Manual workflow → AI agent → automated system → measurable output
 
 ---
 
-## 🏗️ Featured Build Directions
+## 🏗️ Build Directions
 
 | Project | Category | Business Use Case | Link |
 |---|---|---|---|
+| 📈 **AI SDR Outbound System** | Sales AI | Lead qualification, follow-up, review notes | [Repo](https://github.com/ramvadlamudi22-dev/ai-sdr-outbound-system) |
 | 🎙️ **Voice AI Receptionist** | Voice AI | Intake, FAQs, booking, call handling | [Repo](https://github.com/ramvadlamudi22-dev/voice-ai-receptionist) |
-| 📈 **AI SDR Outbound System** | Sales AI | Lead qualification, outreach, follow-up | [Repo](https://github.com/ramvadlamudi22-dev/ai-sdr-outbound-system) |
+| 🧾 **Document Extraction Engine** | Data Ops | Extract structured data from business docs | [Repo](https://github.com/ramvadlamudi22-dev/document-extraction-engine) |
+| 🏢 **AI Automation Agency Stack** | Productized Service | Reusable delivery stack for client work | [Repo](https://github.com/ramvadlamudi22-dev/ai-automation-agency-stack) |
 | 🔁 **Lead Recovery Automation** | Revenue Ops | Recover lost leads and missed opportunities | [Repo](https://github.com/ramvadlamudi22-dev/lead-recovery-automation) |
 | 💬 **WhatsApp Business Agents** | Messaging AI | Customer replies, lead capture, support | [Repo](https://github.com/ramvadlamudi22-dev/whatsapp-business-agents) |
-| 🧾 **Document Extraction Engine** | Data Ops | Extract structured data from business docs | [Repo](https://github.com/ramvadlamudi22-dev/document-extraction-engine) |
 | 🧠 **LLM Evals Observability** | AI Quality | Test prompts, score outputs, monitor AI | [Repo](https://github.com/ramvadlamudi22-dev/llm-evals-observability) |
-| 🏢 **AI Automation Agency Stack** | Productized Service | Reusable delivery stack for client work | [Repo](https://github.com/ramvadlamudi22-dev/ai-automation-agency-stack) |
 | 🔍 **Competitive Intelligence AI** | Research AI | Market monitoring and competitor tracking | [Repo](https://github.com/ramvadlamudi22-dev/competitive-intelligence-ai) |
 
 ---
@@ -174,10 +226,11 @@ F --> G[Business Outcome]
 ```yaml
 building:
   - AI agents for business workflows
+  - AI skills and reusable workflow templates
   - lead recovery and sales automation systems
   - document extraction and back-office automation
-  - LLM evaluation and observability tools
   - browser agents for research and operations
+  - prototype scaffolds with docs, reports, and human review steps
 
 open_to:
   - AI automation projects
